@@ -1,7 +1,6 @@
 //Dependencies
 var fs          = require('fs'),
-    framework = require('digipolis-expressjs4'),
-    mongoose = framework.mongoose,
+    mongoose = require('mongoose'),
     path = require('path');
 
 
